@@ -1,5 +1,14 @@
-# Hi, I'm Tom
+<h1 align="center">Hi, I’m Tom 👋</h1>
 
-![Codex token usage](https://tomlaws-codex-usage.holuholu.workers.dev/card.svg)
+<p align="center">
+  Developer · Hong Kong<br>
+  <a href="https://tomlaw.dev/">tomlaw.dev ↗</a>
+</p>
 
-Codex tokens recorded from my configured devices. Updated automatically; cached input is included in input totals.
+---
+
+<p align="center">
+  <a href="https://tomlaws-codex-usage.holuholu.workers.dev/card.svg">
+    <img src="https://tomlaws-codex-usage.holuholu.workers.dev/card.svg" alt="My Codex token usage" width="560">
+  </a>
+</p>
